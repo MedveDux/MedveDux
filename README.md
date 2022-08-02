@@ -15,8 +15,7 @@
 <br /><br />
 <a  href="https://github.com/Misha172002" target="_blank"><img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a> 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Misha172002anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Misha172002-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Misha172002/Misha172002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
