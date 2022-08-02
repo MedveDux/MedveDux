@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1715F7&background=72CF6F27&vCenter=true&width=500&height=30&lines=I+am+a+student+at+21+school+(Ecole+42)+in+Moscow" alt="Typing SVG" /></a></a></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Misha172002=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Misha172002=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Misha172002/Misha172002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
