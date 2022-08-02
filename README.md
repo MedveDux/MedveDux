@@ -5,7 +5,7 @@
 
 <h1 align="center">💼Skills and Tools:</a> 
  <br> <br> <br />
-<img align="center" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
+<img align="center" width="26px" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
  <br> <br> <br />
 <h1 align="center">🖥Connect with me:</a>
 
