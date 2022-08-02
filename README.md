@@ -19,38 +19,24 @@
 
 
 <h1 align="center">📈GitHub Stats :</h1></br>
-<a href="https://github-readme-stats.vercel.app/api?username=Misha172002"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Misha172002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Misha's github stats" /></a>
-<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misha172002&layout=compact&theme=buefy&hide_border=true" /></a>
+<br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Misha172002&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Misha172002&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Misha172002&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Misha172002&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Misha172002&theme=solarized_dark)
+
 <br />
 <p align="center">
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=Misha172002&color=blue&style=flat&label=visitors" />
 <img alt="surfi's followers" src="https://img.shields.io/github/followers/Misha172002?color=blue" />
 <img alt="surfi's stars" src="https://img.shields.io/github/stars/Misha172002?color=blue" />
 </p>  
-
+<br />
 ---  
 <h3 align="center">
 	I would be really happy if you star 🌟 my repositories if they were useful to you !
 </h3>
-
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Misha172002&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Misha172002&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Misha172002&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Misha172002&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Misha172002&theme=solarized_dark)
-
-
 
 
 <!--
