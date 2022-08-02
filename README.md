@@ -12,8 +12,9 @@
 <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"/>
 
 <h1 align="center">🖥Connect with me:</a>
-<img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>
-
+<br /><br />
+[<img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>][vk]
+[vk]: https://vk.com/mixmix02
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Misha172002anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
