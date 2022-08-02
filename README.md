@@ -33,7 +33,7 @@
 <img alt="surfi's stars" src="https://img.shields.io/github/stars/Misha172002?color=blue" />
 </p>  
 <br />
----  
+ 
 <h3 align="center">
 	I would be really happy if you star 🌟 my repositories if they were useful to you !
 </h3>
