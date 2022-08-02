@@ -3,8 +3,9 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1715F7&background=72CF6F27&vCenter=true&width=500&height=30&lines=I+am+a+student+at+21+school+(Ecole+42)+in+Moscow" alt="Typing SVG" /></a></a></h3>
 
 
-<h1 align="center">💼Skills and Tools:</a> 
+<h1 align="center"> 💼Skills and Tools:</a> 
 <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
+<br>
 <h1 align="center">🖥Connect with me:</a>
 
 
