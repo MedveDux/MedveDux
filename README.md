@@ -14,9 +14,22 @@
 <h1 align="center">🖥Connect with me:</a>
 <br /><br />
 <a  href="https://github.com/Misha172002" target="_blank"><img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a> 
-
+<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misha172002)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+<p align="center">
+<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=Misha172002&color=blue&style=flat&label=visitors" />
+<img alt="surfi's followers" src="https://img.shields.io/github/followers/Misha172002?color=blue" />
+<img alt="surfi's stars" src="https://img.shields.io/github/stars/Misha172002?color=blue" />
+</p>  
+
+---  
+<h3 align="center">
+	I would be really happy if you star 🌟 my repositories if they were useful to you !
+</h3>
 <!--
 **Misha172002/Misha172002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
