@@ -13,7 +13,7 @@
 
 <h1 align="center">🖥Connect with me:</a>
 <br /><br />
-<a  href="https://github.com/Misha172002" target="_blank"><img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a> 
+<a  href="https://github.com/Misha172002" target="_blank"><img align="center" alt="C" width="50px" src="https://www.meme-arsenal.com/memes/65c741540d6d58c6d2c9318bc2057da2.jpg"/></a> 
 <br /><br />
 <!--
 <h1 align="center">GitHub Stats :</a>
