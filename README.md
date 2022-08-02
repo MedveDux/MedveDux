@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1715F7&background=72CF6F27&vCenter=true&width=500&height=30&lines=I+am+a+student+at+21+school+(Ecole+42)+in+Moscow" alt="Typing SVG" /></a></a></h3>
 
 
-<h1 align="center"> 💼Skills and Tools:</a> 
+<h1 align="center"> 💼Skills and Tools:</h1> 
 <br /><br />
 <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
 <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
@@ -11,14 +11,14 @@
 <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
-<h1 align="center">🖥Connect with me:</a>
+<h1 align="center">🖥Connect with me:</h1>
 <br /><br />
 <a  href="https://t.me/muxa2002" target="_blank"><img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a> 
 <a  href="https://vk.com/mixmix02" target="_blank"><img align="center" alt="C" width="50px" src="https://www.meme-arsenal.com/memes/65c741540d6d58c6d2c9318bc2057da2.jpg"/></a> 
 <br /><br />
 
 
-<h1 align="center">📈GitHub Stats :</a>
+<h1 align="center">📈GitHub Stats :</h1></br>
 | <a href="https://github-readme-stats.vercel.app/api?username=Misha172002"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Misha172002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Misha's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misha172002&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
