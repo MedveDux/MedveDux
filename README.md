@@ -15,14 +15,14 @@
 <br /><br />
 <a  href="https://github.com/Misha172002" target="_blank"><img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a> 
 <br /><br />
-
+<!--
 <h1 align="center">GitHub Stats :</a>
 | <a href="https://github-readme-stats.vercel.app/api?username=Misha172002"><img align="center" src="https://github-readme-stats.vercel.app/api?username=
 Misha172002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="
 Misha's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
 Misha172002&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |  
-
+-->
 
 
 
