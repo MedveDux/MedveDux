@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1715F7&background=72CF6F27&vCenter=true&width=500&height=30&lines=I+am+a+student+at+21+school+(Ecole+42)+in+Moscow" alt="Typing SVG" /></a></a></h3>
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>42</title><path d="M24 12.42l-4.428 4.415H24zm-4.428-4.417l-4.414 4.418v4.414h4.414V12.42L24 8.003V3.575h-4.428zm-4.414 0l4.414-4.428h-4.414zM0 15.996h8.842v4.43h4.412V12.42H4.428l8.826-8.846H8.842L0 12.421z"/></svg>
+
 
 <!--
 **Misha172002/Misha172002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
