@@ -1,5 +1,6 @@
 <h1 align="center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦<a href="https://github.com/Misha172002" target="_blank">  𝐌𝐢𝐜𝐡𝐚𝐞𝐥</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://vk.com/doc7608079_654812193?hash=sO3MCG0OhReDGdMnWwrut6GsdeUigh8qtiszO7EkaQ0&dl=2dErj8LKK1uqkqZQnpzIXze53Lyhmm3YolrWUbzg9qH)" height="32"/></h1>
+<!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1715F7&background=72CF6F27&vCenter=true&width=500&height=30&lines=I+am+a+student+at+21+school+(Ecole+42)+in+Moscow" alt="Typing SVG" /></a></a></h3>
 
 
