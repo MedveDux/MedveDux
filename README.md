@@ -5,7 +5,7 @@
 
 <h1 align="center"> 💼Skills and Tools:</h1> 
 <br /><br />
-<img align="left" alt="C" width="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F355038%2Fgolang&psig=AOvVaw1zbQ_fqf0pognMq2WT_27c&ust=1692733826825000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCwyYXD7oADFQAAAAAdAAAAABAJ"/>
+<img align="left" alt="Go" width="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eysen&psig=AOvVaw3wBmvmMLdh6JYUi_dUMaY8&ust=1692733936944000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjbkbrD7oADFQAAAAAdAAAAABAE"/>
 
 
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
