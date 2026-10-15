@@ -1,44 +1,27 @@
 <!-- MedveDux · profile README · terminal edition · EN (русская версия: README.md) -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=MedveDux&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%24%20whoami%20%E2%86%92%20Mikhail%20Mikhailovsky%20%C2%B7%20PhD%20student%20at%20MSUPE&descAlignY=58&descSize=20" width="100%" alt="MedveDux — $ whoami → Mikhail Mikhailovsky · PhD student at MSUPE">
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=MedveDux&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%24%20whoami%20%E2%86%92%20Mikhail%20Mikhailovsky%20%C2%B7%20PhD%20student%20at%20MSUPE&descAlignY=58&descSize=20" width="100%" alt="MedveDux — $ whoami → Mikhail Mikhailovsky · PhD student at MSUPE"></p>
 
-<p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/language-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-161b22?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=00ff41" alt="Переключиться на русскую версию"></a>
-</p>
+<p align="right"><a href="README.md"><img src="https://img.shields.io/badge/language-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-161b22?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=00ff41" alt="Переключиться на русскую версию"></a></p>
 
-<p align="center">
-  <a href="https://github.com/MedveDux"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=600&height=48&lines=%24+whoami;Mikhail+Mikhailovsky+%C2%B7+MedveDux;%24+cat+~%2F.plan;science+%2B+code%3A+from+pet+projects+to+releases;%24+make+medvedux;make%3A+%27medvedux%27+is+up+to+date.">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=1A7F37&center=true&vCenter=true&width=600&height=48&lines=%24+whoami;Mikhail+Mikhailovsky+%C2%B7+MedveDux;%24+cat+~%2F.plan;science+%2B+code%3A+from+pet+projects+to+releases;%24+make+medvedux;make%3A+%27medvedux%27+is+up+to+date." alt="$ whoami → Mikhail Mikhailovsky · MedveDux · $ cat ~/.plan → science + code: from pet projects to releases">
-  </picture></a>
-</p>
+<p align="center"><a href="https://github.com/MedveDux"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=600&height=48&lines=%24+whoami;Mikhail+Mikhailovsky+%C2%B7+MedveDux;%24+cat+~%2F.plan;science+%2B+code%3A+from+idea+to+release;%24+make+medvedux;make%3A+%27medvedux%27+is+up+to+date."><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=1A7F37&center=true&vCenter=true&width=600&height=48&lines=%24+whoami;Mikhail+Mikhailovsky+%C2%B7+MedveDux;%24+cat+~%2F.plan;science+%2B+code%3A+from+idea+to+release;%24+make+medvedux;make%3A+%27medvedux%27+is+up+to+date." alt="$ whoami → Mikhail Mikhailovsky · MedveDux · $ cat ~/.plan → science + code: from idea to release"></picture></a></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MedveDux&style=for-the-badge&color=161b22&label=visitors" alt="visitors">
-  <img src="https://img.shields.io/badge/MSUPE-PhD_student-161b22?style=for-the-badge&logo=academia&logoColor=00ff41&labelColor=0d1117" alt="MSUPE · PhD student">
-  <img src="https://img.shields.io/badge/%C3%89cole_42-alumnus-161b22?style=for-the-badge&logo=42&logoColor=00ff41&labelColor=0d1117" alt="École 42 · alumnus">
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MedveDux&style=for-the-badge&color=161b22&label=visitors" alt="visitors"> <img src="https://img.shields.io/badge/MSUPE-PhD_student-161b22?style=for-the-badge&logo=academia&logoColor=00ff41&labelColor=0d1117" alt="MSUPE · PhD student"> <img src="https://img.shields.io/badge/%C3%89cole_42-alumnus-161b22?style=for-the-badge&logo=42&logoColor=00ff41&labelColor=0d1117" alt="École 42 · alumnus"></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt=""></p>
 
 ## `$ whoami`
 
-<table>
-  <tr>
-    <td valign="top">
-      Hi! I'm <b>Mikhail Mikhailovsky</b> — <b>Misha</b> to friends, <b>MedveDux</b> on GitHub. The handle comes from "медведь", the word for bear: I work calmly, thoroughly, and all the way to release 🐻<br><br>
-      🎓 PhD student at <b>MSUPE</b> (a university of psychology & education) — actively growing as a researcher<br>
-      🏫 <b>École 42</b> alumnus — peer-to-peer, no teachers. C/C++ track: from my own libc to 3D raycasting<br>
-      🧠 I love low-level work: <code>C</code>, pointers, <code>Makefile</code>, my own <code>printf</code><br>
-      🚀 I don't abandon pet projects halfway: versions, installers, changelogs, real users<br>
-      🔭 Currently: science, backends in <b>Go</b>, tools in <b>Python</b>, embedded experiments<br>
-      📅 On GitHub since September 2021
-    </td>
-    <td width="300" align="center" valign="middle"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" alt="Developer at a desk with monitors"></td>
-  </tr>
-</table>
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer at a desk with monitors">
+
+Hi! I'm **Mikhail Mikhailovsky** — **Misha** to friends, **MedveDux** on GitHub. The handle comes from "медведь", the word for bear: I work calmly, thoroughly, and all the way to release 🐻
+
+- 🎓 PhD student at **MSUPE** (a university of psychology & education) — actively growing as a researcher
+- 🏫 **École 42** alumnus — peer-to-peer, no teachers. C/C++ track: from my own libc to 3D raycasting
+- 🧠 I love low-level work: `C`, pointers, `Makefile`, my own `printf`
+- 🚀 I take my projects all the way to release: versions, installers, changelogs, real users
+- 🔭 Currently: science, backends in **Go**, tools in **Python**, embedded experiments
+- 📅 On GitHub since September 2021
 
 ```c
 /* about.c — built at École 42: norminette approves, so does peer review */
@@ -84,37 +67,19 @@ medvedux@dev:~$ cat ~/research.log
 
 ### `$ ls ~/ecole42`
 
-<table>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <img src="gif.gif" width="330" alt="ASCII matrix in a terminal"><br><sub>$ make re · 2021 → 2022</sub>
-    </td>
-    <td width="58%" valign="middle">
-      <b>École 42</b> — peer-to-peer, no teachers: your code is reviewed by fellow students, and "it almost works" is not accepted.<br><br>Alumnus. The C/C++ track — from my own libc to 3D raycasting: strings and memory, processes and pipes, threads and mutexes, sorting with the fewest operations, C++ modules. That's why C is my top language and why I like to know what happens under the hood.
-    </td>
-  </tr>
-</table>
+<img align="left" width="280" src="gif.gif" alt="ASCII matrix in a terminal">
 
-<p align="center"><sub>0 teachers, ∞ peer review</sub></p>
+**École 42** — peer-to-peer, no teachers: your code is reviewed by fellow students, and "it almost works" is not accepted.
 
-## `$ cat ~/pet-projects.txt`
+Alumnus. The C/C++ track — from my own libc to 3D raycasting: strings and memory, processes and pipes, threads and mutexes, sorting with the fewest operations, C++ modules. That's why C is my top language and why I like to know what happens under the hood.
 
-```bash
-medvedux@dev:~$ cat ~/pet-projects.txt
-# pet projects taken all the way to solid releases:
-# semver versions · installers · Keep a Changelog · real users
-desktop utilities · telegram bots and mini apps · 2D games · backends with a database · SDKs and libraries · embedded
-```
-
-<p align="center"><sub>For me a pet project doesn't end with a "works on my machine" commit — it ends with a version people can actually use.</sub></p>
+<p align="center"><sub>$ make re · 2021 → 2022 · 0 teachers, ∞ peer review</sub></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt=""></p>
 
 ## `$ cat ~/.skills`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,dart,flutter,js,html,postgres,docker,linux,bash,git,github,vim,vscode,androidstudio&perline=10" alt="C, C++, Go, Python, Java, Dart, Flutter, JavaScript, HTML, PostgreSQL, Docker, Linux, Bash, Git, GitHub, Vim, VS Code, Android Studio">
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,dart,flutter,js,html,postgres,docker,linux,bash,git,github,vim,vscode,androidstudio&perline=10" alt="C, C++, Go, Python, Java, Dart, Flutter, JavaScript, HTML, PostgreSQL, Docker, Linux, Bash, Git, GitHub, Vim, VS Code, Android Studio"></p>
 
 | Layer | Tools |
 |:--|:--|
@@ -136,7 +101,7 @@ medvedux@dev:~$ git log --reverse --date=format:%Y --format="%ad  %s%d"
 2022  feat(web,android): web technologies and a first Android app
 2024  feat(dart): Flutter and mobile development
 2025  feat(go): backends in Go + PostgreSQL + Docker
-2026  feat(release,embedded): pet projects shipped as v1.0 releases, ESP32 experiments (HEAD -> main)
+2026  feat(release,embedded): v1.0 releases, ESP32 experiments (HEAD -> main)
 ```
 
 ### `$ cat achievements.log`
@@ -146,7 +111,7 @@ medvedux@dev:~$ git log --reverse --date=format:%Y --format="%ad  %s%d"
 | 🦈 | **Pull Shark** | GitHub badge for pull requests that got merged |
 | 🎓 | **École 42 alumnus** | the C/C++ track completed from the piscine to the final projects |
 | 🔬 | **PhD student at MSUPE** | science in parallel with development |
-| 🚀 | **Releases, not drafts** | pet projects taken to v1.0: installers, changelogs, users |
+| 🚀 | **Releases, not drafts** | my projects taken to v1.0: installers, changelogs, users |
 | 🗣️ | **Polyglot** | C → C++ → Java → Dart → Go → Python, with real code behind every language |
 | 📅 | **Veteran** | on GitHub since September 2021 |
 
@@ -164,26 +129,12 @@ medvedux@dev:~$ uptime
 
 ## `$ neofetch`
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MedveDux&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&custom_title=%24%20git%20stats%20--all">
-    <img src="https://github-readme-stats.vercel.app/api?username=MedveDux&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=1a7f37&icon_color=1a7f37&text_color=24292f&ring_color=1a7f37&custom_title=%24%20git%20stats%20--all" height="165" alt="GitHub stats"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MedveDux&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d">
-    <img src="https://streak-stats.demolab.com/?user=MedveDux&hide_border=true&background=ffffff&ring=1a7f37&fire=1a7f37&currStreakLabel=1a7f37&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a&stroke=d0d7de" height="165" alt="GitHub streak"></picture>
-</p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MedveDux&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&custom_title=%24%20git%20stats%20--all"><img src="https://github-readme-stats.vercel.app/api?username=MedveDux&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=1a7f37&icon_color=1a7f37&text_color=24292f&ring_color=1a7f37&custom_title=%24%20git%20stats%20--all" height="165" alt="GitHub stats"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MedveDux&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d"><img src="https://streak-stats.demolab.com/?user=MedveDux&hide_border=true&background=ffffff&ring=1a7f37&fire=1a7f37&currStreakLabel=1a7f37&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a&stroke=d0d7de" height="165" alt="GitHub streak"></picture></p>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedveDux&layout=compact&langs_count=8&hide=objective-c&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&custom_title=%24%20cat%20%2Fproc%2Flangs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedveDux&layout=compact&langs_count=8&hide=objective-c&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=24292f&custom_title=%24%20cat%20%2Fproc%2Flangs" alt="Top languages"></picture>
-  <br><sub># C leads by bytes — that's the École 42 footprint. I write new things in Go and Python.</sub>
-</p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedveDux&layout=compact&langs_count=8&hide=objective-c&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&custom_title=%24%20cat%20%2Fproc%2Flangs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedveDux&layout=compact&langs_count=8&hide=objective-c&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=24292f&custom_title=%24%20cat%20%2Fproc%2Flangs" alt="Top languages"></picture><br><sub># C leads by bytes — that's the École 42 footprint. I write new things in Go and Python.</sub></p>
 
 <!-- The snake appears after the first run of .github/workflows/snake.yml (branch output) -->
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake.svg" width="100%" alt="Contribution snake"></picture>
-  <br><sub>The bear feeds the snake commits.</sub>
-</p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake.svg"><img src="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake.svg" width="100%" alt="Contribution snake"></picture><br><sub>The bear feeds the snake commits.</sub></p>
 
 ## `$ ping medvedux` · get in touch
 
@@ -195,11 +146,7 @@ PING medvedux (t.me/MedveDux): 56 data bytes
 1 packets transmitted, 1 received, 0% packet loss
 ```
 
-<p align="center">
-  <a href="https://t.me/MedveDux"><img src="https://img.shields.io/badge/Telegram-%40MedveDux-161b22?style=for-the-badge&logo=telegram&logoColor=00ff41&labelColor=0d1117" alt="Telegram @MedveDux"></a>
-  <a href="https://vk.com/medve_dux"><img src="https://img.shields.io/badge/VK-medve__dux-161b22?style=for-the-badge&logo=vk&logoColor=00ff41&labelColor=0d1117" alt="VK medve_dux"></a>
-  <a href="https://github.com/MedveDux"><img src="https://img.shields.io/badge/GitHub-MedveDux-161b22?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" alt="GitHub MedveDux"></a>
-</p>
+<p align="center"><a href="https://t.me/MedveDux"><img src="https://img.shields.io/badge/Telegram-%40MedveDux-161b22?style=for-the-badge&logo=telegram&logoColor=00ff41&labelColor=0d1117" alt="Telegram @MedveDux"></a> <a href="https://vk.com/medve_dux"><img src="https://img.shields.io/badge/VK-medve__dux-161b22?style=for-the-badge&logo=vk&logoColor=00ff41&labelColor=0d1117" alt="VK medve_dux"></a> <a href="https://github.com/MedveDux"><img src="https://img.shields.io/badge/GitHub-MedveDux-161b22?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" alt="GitHub MedveDux"></a></p>
 
 <p align="center">Happy to talk about Go, science, and École 42.</p>
 
@@ -208,10 +155,6 @@ PING medvedux (t.me/MedveDux): 56 data bytes
 <p>Okay. Seriously though, the fastest way to discuss anything is <a href="https://t.me/MedveDux">Telegram</a>.</p>
 </details>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Cat with a laptop"><br>
-  <i>If any repository was useful to you — leave a ⭐. The bear will notice and appreciate it.</i><br><br>
-  <code>Continue? [Y/n] █</code>
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Cat with a laptop"><br><i>If any repository was useful to you — leave a ⭐. The bear will notice and appreciate it.</i><br><br><code>Continue? [Y/n] █</code></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=120&section=footer&animation=twinkling" width="100%" alt=""></p>
