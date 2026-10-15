@@ -14,14 +14,13 @@
 
 <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer at a desk with monitors">
 
-Hi! I'm **Mikhail Mikhailovsky** — **Misha** to friends, **MedveDux** on GitHub. The handle comes from "медведь", the word for bear: I work calmly, thoroughly, and all the way to release 🐻
+Hi! I'm **Mikhail Mikhailovsky** — **Misha** to friends, **MedveDux** on GitHub. The handle comes from "медведь", the word for bear: I work calmly, thoroughly, and all the way to release.
 
-- 🎓 PhD student at **MSUPE** (a university of psychology & education) — actively growing as a researcher
-- 🏫 **École 42** alumnus — peer-to-peer, no teachers. C/C++ track: from my own libc to 3D raycasting
-- 🧠 I love low-level work: `C`, pointers, `Makefile`, my own `printf`
-- 🚀 I take my projects all the way to release: versions, installers, changelogs, real users
-- 🔭 Currently: science, backends in **Go**, tools in **Python**, embedded experiments
-- 📅 On GitHub since September 2021
+- PhD student at **MSUPE** (a university of psychology & education) — actively growing as a researcher
+- **École 42** alumnus — peer-to-peer, no teachers. C/C++ track: from my own libc to 3D raycasting
+- I love low-level work: `C`, pointers, `Makefile`, my own `printf`
+- I take my projects all the way to release: versions, installers, changelogs, real users
+- Currently: science, backends in **Go**, tools in **Python**, embedded experiments
 
 ```c
 /* about.c — built at École 42: norminette approves, so does peer review */
@@ -83,14 +82,14 @@ Alumnus. The C/C++ track — from my own libc to 3D raycasting: strings and memo
 
 | Layer | Tools |
 |:--|:--|
-| 🧬 Low level | `C` · `C++` · `Makefile` · `CMake` — pointers, processes, threads, raycasting |
-| 🐘 Backend | `Go` · `PostgreSQL` · `Docker` + `docker-compose` · SQL migrations |
-| 📱 Mobile | `Dart` / `Flutter` · `Java` (Android) |
-| 🪟 Desktop & tools | `Python` · `NSIS` · `Batch` · `Shell` |
-| 🎮 Games | `Go` + `Ebiten` · `C` |
-| 🔌 Embedded | `ESP32` · `nanopb` / Protocol Buffers |
-| 🌐 Web & bots | Telegram Mini Apps · `HTML` / `JavaScript` |
-| 🔬 Science | research · data · prototypes · experiment automation |
+| Low level | `C` · `C++` · `Makefile` · `CMake` — pointers, processes, threads, raycasting |
+| Backend | `Go` · `PostgreSQL` · `Docker` + `docker-compose` · SQL migrations |
+| Mobile | `Dart` / `Flutter` · `Java` (Android) |
+| Desktop & tools | `Python` · `NSIS` · `Batch` · `Shell` |
+| Games | `Go` + `Ebiten` · `C` |
+| Embedded | `ESP32` · `nanopb` / Protocol Buffers |
+| Web & bots | Telegram Mini Apps · `HTML` / `JavaScript` |
+| Science | research · data · prototypes · experiment automation |
 
 ## `$ git log --oneline`
 

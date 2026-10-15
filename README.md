@@ -14,14 +14,13 @@
 
 <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Разработчик за столом с мониторами">
 
-Привет! Я **Михаил Михайловский** — для друзей **Миша**, для GitHub **MedveDux**. Ник — от слова «медведь»: работаю спокойно и основательно — и довожу до релиза 🐻
+Привет! Я **Михаил Михайловский** — для друзей **Миша**, для GitHub **MedveDux**. Ник — от слова «медведь»: работаю спокойно и основательно — и довожу до релиза.
 
-- 🎓 Аспирант **МГППУ** — активно развиваюсь в науке
-- 🏫 Выпускник **École 42** — peer-to-peer, без преподавателей. Трек C/C++: от своей libc до 3D на raycasting
-- 🧠 Люблю низкий уровень: `C`, указатели, `Makefile`, своя `printf`
-- 🚀 Свои проекты довожу до релизов: версии, установщики, changelog, живые пользователи
-- 🔭 Сейчас: наука, бэкенды на **Go**, инструменты на **Python**, эксперименты с embedded
-- 📅 На GitHub с сентября 2021
+- Аспирант **МГППУ** — активно развиваюсь в науке
+- Выпускник **École 42** — peer-to-peer, без преподавателей. Трек C/C++: от своей libc до 3D на raycasting
+- Люблю низкий уровень: `C`, указатели, `Makefile`, своя `printf`
+- Свои проекты довожу до релизов: версии, установщики, changelog, живые пользователи
+- Сейчас: наука, бэкенды на **Go**, инструменты на **Python**, эксперименты с embedded
 
 ```c
 /* about.c — собрано в École 42: norminette одобряет, peer-review тоже */
@@ -83,14 +82,14 @@ medvedux@dev:~$ cat ~/research.log
 
 | Слой | Инструменты |
 |:--|:--|
-| 🧬 Низкий уровень | `C` · `C++` · `Makefile` · `CMake` — указатели, процессы, потоки, raycasting |
-| 🐘 Бэкенд | `Go` · `PostgreSQL` · `Docker` + `docker-compose` · SQL-миграции |
-| 📱 Мобильное | `Dart` / `Flutter` · `Java` (Android) |
-| 🪟 Десктоп и инструменты | `Python` · `NSIS` · `Batch` · `Shell` |
-| 🎮 Игры | `Go` + `Ebiten` · `C` |
-| 🔌 Embedded | `ESP32` · `nanopb` / Protocol Buffers |
-| 🌐 Web и боты | Telegram Mini Apps · `HTML` / `JavaScript` |
-| 🔬 Наука | исследования · данные · прототипы · автоматизация экспериментов |
+| Низкий уровень | `C` · `C++` · `Makefile` · `CMake` — указатели, процессы, потоки, raycasting |
+| Бэкенд | `Go` · `PostgreSQL` · `Docker` + `docker-compose` · SQL-миграции |
+| Мобильное | `Dart` / `Flutter` · `Java` (Android) |
+| Десктоп и инструменты | `Python` · `NSIS` · `Batch` · `Shell` |
+| Игры | `Go` + `Ebiten` · `C` |
+| Embedded | `ESP32` · `nanopb` / Protocol Buffers |
+| Web и боты | Telegram Mini Apps · `HTML` / `JavaScript` |
+| Наука | исследования · данные · прототипы · автоматизация экспериментов |
 
 ## `$ git log --oneline`
 
