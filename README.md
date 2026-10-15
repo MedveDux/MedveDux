@@ -103,17 +103,6 @@ medvedux@dev:~$ git log --reverse --date=format:%Y --format="%ad  %s%d"
 2026  feat(release,embedded): релизы v1.0, эксперименты с ESP32 (HEAD -> main)
 ```
 
-### `$ cat achievements.log`
-
-| | Достижение | Как получено |
-|:--:|:--|:--|
-| 🦈 | **Pull Shark** | бейдж GitHub за влитые pull request'ы |
-| 🎓 | **Выпускник École 42** | трек C/C++ пройден от бассейна до финальных проектов |
-| 🔬 | **Аспирант МГППУ** | наука параллельно с разработкой |
-| 🚀 | **Релизы, а не черновики** | свои проекты доведены до версий 1.0: установщики, changelog, пользователи |
-| 🗣️ | **Полиглот** | C → C++ → Java → Dart → Go → Python, и за каждым языком стоит код |
-| 📅 | **Ветеран** | на GitHub с сентября 2021 |
-
 ### `$ uptime`
 
 ```bash
@@ -130,7 +119,7 @@ medvedux@dev:~$ uptime
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MedveDux&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&locale=ru&custom_title=%24%20git%20stats%20--all"><img src="https://github-readme-stats.vercel.app/api?username=MedveDux&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=1a7f37&icon_color=1a7f37&text_color=24292f&ring_color=1a7f37&locale=ru&custom_title=%24%20git%20stats%20--all" height="165" alt="GitHub stats"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MedveDux&locale=ru&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d"><img src="https://streak-stats.demolab.com/?user=MedveDux&locale=ru&hide_border=true&background=ffffff&ring=1a7f37&fire=1a7f37&currStreakLabel=1a7f37&currStreakNum=24292f&sideNums=24292f&sideLabels=24292f&dates=57606a&stroke=d0d7de" height="165" alt="GitHub streak"></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedveDux&layout=compact&langs_count=8&hide=objective-c&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&locale=ru&custom_title=%24%20cat%20%2Fproc%2Flangs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedveDux&layout=compact&langs_count=8&hide=objective-c&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=24292f&locale=ru&custom_title=%24%20cat%20%2Fproc%2Flangs" alt="Top languages"></picture><br><sub># C лидирует по байтам — это след École 42. Новое пишу на Go и Python.</sub></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedveDux&layout=compact&langs_count=8&hide=objective-c&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&locale=ru&custom_title=%24%20cat%20%2Fproc%2Flangs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedveDux&layout=compact&langs_count=8&hide=objective-c&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=24292f&locale=ru&custom_title=%24%20cat%20%2Fproc%2Flangs" alt="Top languages"></picture></p>
 
 <!-- Змейка появится после первого прогона .github/workflows/snake.yml (ветка output) -->
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake.svg"><img src="https://raw.githubusercontent.com/MedveDux/MedveDux/output/github-snake.svg" width="100%" alt="Змейка контрибуций"></picture><br><sub>Медведь кормит змейку коммитами.</sub></p>
@@ -147,7 +136,7 @@ PING medvedux (t.me/MedveDux): 56 data bytes
 
 <p align="center"><a href="https://t.me/MedveDux"><img src="https://img.shields.io/badge/Telegram-%40MedveDux-161b22?style=for-the-badge&logo=telegram&logoColor=00ff41&labelColor=0d1117" alt="Telegram @MedveDux"></a> <a href="https://vk.com/medve_dux"><img src="https://img.shields.io/badge/VK-medve__dux-161b22?style=for-the-badge&logo=vk&logoColor=00ff41&labelColor=0d1117" alt="VK medve_dux"></a> <a href="https://github.com/MedveDux"><img src="https://img.shields.io/badge/GitHub-MedveDux-161b22?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" alt="GitHub MedveDux"></a></p>
 
-<p align="center">С радостью обсужу Go, науку и École 42.</p>
+<p align="center">С радостью пообщаюсь.</p>
 
 <details>
 <summary><code>$ sudo make me a sandwich</code></summary>
